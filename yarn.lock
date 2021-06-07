@@ -2109,6 +2109,11 @@ scheduler@^0.20.2:
     loose-envify "^1.1.0"
     object-assign "^4.1.1"
 
+scoop@^0.0.2:
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/scoop/-/scoop-0.0.2.tgz#e3adc711c62a8da734dc8634d0bf8bb469b242d7"
+  integrity sha1-463HEcYqjac03IY00L+LtGmyQtc=
+
 semver@^5.1.0, semver@^5.6.0:
   version "5.7.1"
   resolved "https://registry.yarnpkg.com/semver/-/semver-5.7.1.tgz#a954f931aeba508d307bbf069eff0c01c96116f7"
