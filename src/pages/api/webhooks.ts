@@ -78,3 +78,4 @@ export default async (req: NextApiRequest, res: NextApiResponse) => {
   }
 }
 
+//stripe não está salvando os webhooks.
