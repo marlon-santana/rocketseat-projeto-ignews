@@ -36,10 +36,13 @@ export default function Posts( { posts }: PostProps ) {
                     <p>{post.excerpt}</p>
                     </a>
                     ))}
+                    
                 </div>
             </main>
         </>
+        
     );
+    
 }
 
 export const getStaticProps: GetStaticProps = async () => {
@@ -60,6 +63,7 @@ export const getStaticProps: GetStaticProps = async () => {
                 day:'2-digit',
                 month:'long',
                 year:'numeric'
+                
             })
         };
     });
