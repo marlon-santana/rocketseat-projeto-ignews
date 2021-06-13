@@ -20,7 +20,6 @@ export function Header() {
                     <a>Post</a>
                 </ActiveLink>    
                 </nav>
-
                 <SignInButton />
             </div>
         </header>
