@@ -1,5 +1,6 @@
 <h1 align="center">
   <img alt="Logo" src="./public/images/logo.svg" alt="ig.News">
+  <img alt="capa" src="./public/images/capa.png" alt="capa">
 </h1>
 
 <h1 align="center">
