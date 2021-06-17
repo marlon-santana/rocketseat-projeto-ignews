@@ -26,6 +26,13 @@ A aplicação foi desenvolvida utilizando o framework NextJS aplicando conceitos
 O projeto foi desenvolvido como pratica das aulas do modulo 03 do [Ignite da Rocketseat](https://rocketseat.com.br/)
 
 ---
+<h1 align="center">
+  <img alt="posts" src="./public/images/posts.png" alt="posts">
+  <img alt="post_sem" src="./public/images/post_sem.png" alt="post block">
+  <img alt="pagamento" src="./public/images/pagamento.png" alt="pag">
+  <img alt="post_log" src="./public/images/post_log.png" alt="post">
+  
+</h1>
 
 ## Tecnologias
 
@@ -95,3 +102,4 @@ $ yarn dev
 Distribuído sob a licença MIT. Veja [LICENSE](LICENSE) para mais informações.
 
 ---
+
